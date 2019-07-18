@@ -9,6 +9,5 @@ A homemade standard library for C
 
 ## Skills
 - Rigor
-- Algorithms
-- Imperative programming
+- Simple algorithms
 
